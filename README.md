@@ -12,7 +12,7 @@ declarative-vs-imperative/
 │   ├── domain
 │   ├── repository
 │   ├── service
-│   └── web/api
+│   └── presentation/api
 ├── pom.xml
 └── readme.md
 ```
